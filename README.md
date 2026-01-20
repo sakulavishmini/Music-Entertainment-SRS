@@ -20,7 +20,3 @@ This repository contains the **Software Requirements Specification (SRS)** for a
 - **Stakeholders**: For reviewing system goals.  
 - **Learners/Researchers**: For studying best practices in music streaming platforms.  
 
-## Getting Started
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
